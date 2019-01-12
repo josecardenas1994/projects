@@ -1,0 +1,24 @@
+/*  css rules */
+/* different selectors */
+/* tag 1- selector */
+h1{
+    background-color: rgb(99, 99, 141);
+    font-size: 70px;
+    color:rgb(192, 192, 192);
+}
+/* hex 0 1 2 3 4 5 6 7 8 9 a b c d e f /16 total values/ */
+/* rgb */
+/*  prefered method due to all browser show same color compared to names */
+input{
+    color:rgb(0, 0, 0)
+}
+
+/* 2 ID selector(#)  */
+#text{
+    color: darkblue
+}
+
+/* 3 declaring css classes */
+.dangerbtn{
+color: rgb(67, 141, 184);
+}
