@@ -1,0 +1,65 @@
+H1 {
+    color: #02FEFE;
+    text-align: center;
+    font-size: 100px;
+}
+/*  doubkle dot means go back one folder */
+body {
+    background-image: url("../img/arc.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.square-list {
+    list-style-type: square;
+    /* border: linewidth line type color */
+    border:2px solid #333;
+padding-left: 10px;
+padding-top: 10px;
+margin-bottom: 30px;
+}
+
+.square-list li{
+   color: #A7D9D9;
+    margin: 5px 10px 5px 8px;
+
+}
+
+button{
+    padding-left: 30px;
+    padding-right:30px;
+    padding-bottom:5px;
+    padding-top:5px;
+}
+    /*  padding is  top right bottom left */
+    /* padding: 5px 30px 5px 30px; */
+/* if you do short  top/ bottom left */
+/* all sides  */
+/* padding:10px; */
+
+
+
+.container {
+    padding:2px ;
+    border:5px solid rgb(167, 217, 217);
+
+    }
+ol li {
+    text-decoration:blue;
+
+}
+    .container button {
+        font-size:16px;
+        font-weight:bold;
+        color: rgb(1, 1, 1);
+    }
+    /* forum styles */
+article { height: 500px;
+    }
+     /*  in rgb if all six digits are the same substitute it for the same three digits */
+
+a { color: rgb(1, 1, 1);
+
+}
+
+
